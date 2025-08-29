@@ -25,5 +25,5 @@ It is a Python implementation of the original MATLAB version.
 
 ## 📂 Project Structure
 ├── ff.py # Main Python script
-├── k.jpg # Example test image
+├── fire.jpg # Example test image
 └── README.md # Project documentation
